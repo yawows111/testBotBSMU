@@ -1,1 +1,1 @@
-bot: python3 app.py runserver
+wed: python3 app.py runserver
