@@ -1,1 +1,1 @@
-work: python main.py runserver
+work: python app.py 
